@@ -2,6 +2,9 @@
 
 Citation Fixer is a simple, easy-to-use web tool that helps students quickly create properly formatted citations in popular styles like APA, MLA, and Chicago.
 
+# Link to Website:
+ 
+ https://github.com/bigappledev/citation-fixer
 
 # Features
 
