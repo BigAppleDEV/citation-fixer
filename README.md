@@ -1,19 +1,16 @@
-# Citation Fixer
+ # Citation Fixer
 
 Citation Fixer is a simple, easy-to-use web tool that helps students quickly create properly formatted citations in popular styles like APA, MLA, and Chicago.
 
----
 
-## Features
+# Features
 
 - Fill in author, title, publisher, year, and select citation style
 - Automatically generates a correctly formatted citation
 - Clean and user-friendly interface
 - Responsive design — works on mobile and desktop
 
----
-
-## How to Use
+# How to Use
 
 1. Open the website in your browser.
 2. Fill out the form with your source details.
@@ -21,9 +18,7 @@ Citation Fixer is a simple, easy-to-use web tool that helps students quickly cre
 4. Click the **"Make My Citation"** button.
 5. Copy the generated citation for your bibliography!
 
----
-
-## Tech Stack
+# Tech Stack
 
 - HTML  
 - CSS  
@@ -31,9 +26,7 @@ Citation Fixer is a simple, easy-to-use web tool that helps students quickly cre
 
 No backend or database needed — fully static website hosted on GitHub Pages.
 
----
-
-## How to Run Locally
+How to Run Locally
 
 1. Clone this repository:
 
