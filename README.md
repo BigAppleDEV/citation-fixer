@@ -4,7 +4,7 @@ Citation Fixer is a simple, easy-to-use web tool that helps students quickly cre
 
 # Link to Website:
  
- https://github.com/bigappledev/citation-fixer
+ https://bigappledev.github.io/citation-fixer/
 
 # Features
 
